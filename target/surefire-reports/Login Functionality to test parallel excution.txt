@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Login Functionality to test parallel excution
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.55 s - in Login Functionality to test parallel excution
