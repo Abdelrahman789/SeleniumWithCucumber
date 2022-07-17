@@ -5,4 +5,5 @@ This project consists of:
 2- Cucumber framework 
 3- Maven
 4- Junit
-5- used langauge is jave
+5- Reporting tool
+6- Used langauge is jave
